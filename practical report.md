@@ -1,11 +1,7 @@
-#include <stdio.h>
+# PROGRAMING OF PROBLEM SOLVING
 
-// main function, with no input and no return
-
-void main()
-{
-
-    puts("Welcome to budding Engineers! to GNE College, Ludhiana");
-
-}
-
+NAME- SAUMAN SHEKHAR 
+ROLL NUMBER-1914114
+BRANCH-CIVIL
+SECTION-B2
+COLLEGE NAME- GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
