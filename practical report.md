@@ -10,3 +10,19 @@ SECTION-B2
 
 COLLEGE NAME- GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
 
+
+
+
+
+
+1 program to print name
+
+#include<stdio.h>
+
+int main()
+
+{
+printf("suman shekhar");
+return 0;
+}
+
