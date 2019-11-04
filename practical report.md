@@ -41,7 +41,7 @@ int main()
          } 
 
 
-
+3 write a program to find the location of a given element using linear search.
 #include<stdio.h>
 int main()
 {
