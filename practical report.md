@@ -42,6 +42,7 @@ int main()
 
 
 3 write a program to find the location of a given element using linear search.
+3 write a program to find the location of a given element using linear search.
 #include<stdio.h>
 int main()
 {
@@ -70,3 +71,19 @@ printf("%d is not present in the array.\n",search);
 }
 return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
