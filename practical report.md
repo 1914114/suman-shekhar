@@ -16,20 +16,20 @@ SECTION-B2
 
 1 program to print name
 
-#include<stdio.h>
+               #include<stdio.h>
 
-int main()
+               int main()
 
-{
-printf("suman shekhar");
-return 0;
-}
+                {
+                printf("suman shekhar");
+                return 0;
+                }
 
 
 2 sum of two number x and y
-#include<stdio.h>
 
-int main()
+                #include<stdio.h>
+                int main()
 
         {
          int x,y;
